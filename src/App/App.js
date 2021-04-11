@@ -1,7 +1,5 @@
 import { CssBaseline, makeStyles, createMuiTheme, ThemeProvider } from '@material-ui/core';
-import PeopleOutlineTwoToneIcon from '@material-ui/icons/PeopleOutlineTwoTone';
 import Header from '../components/Header';
-import PageHeader from '../components/PageHeader';
 import SideMenu from '../components/SideMenu';
 import Employees from '../pages/Employees/Employees';
 import './App.css';
